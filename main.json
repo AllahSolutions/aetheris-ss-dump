@@ -1,5 +1,3 @@
--- Aetheris SS Dump // Date: 29.08.2025 20:00:00
-return game:GetService("HttpService"):JSONDecode([[
 [{
     "id": "1202978293125484564",
     "plan": "owner",
@@ -1515,7 +1513,7 @@ return game:GetService("HttpService"):JSONDecode([[
 }, {
     "id": "1370393211004256316",
     "plan": "none",
-    "rblx_nick": "GummerPig",
+    "rblx_nick": "твая мамк",
     "uid": 252,
     "whitelist": false
 }, {
@@ -2281,4 +2279,4 @@ return game:GetService("HttpService"):JSONDecode([[
     "uid": 379,
     "whitelist": false
 }]
-]])
+
